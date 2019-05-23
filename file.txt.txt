@@ -1,4 +1,8 @@
 class a{
+
+void myMethod(){
+sysout("hello git")
+}
 main(){
 sysout("hello git")
 }
