@@ -1,0 +1,6 @@
+class a{
+main(){
+sysout("hello git")
+}
+
+}
