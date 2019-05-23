@@ -1,6 +1,6 @@
 class a{
 
-void myMethod(){
+void static myMethod(){
 sysout("hello git")
 }
 main(){
