@@ -3,11 +3,17 @@ class a{
 static void myMethod(){
 system.out.println("I have implemented a new idea");
 }
+
 void display()
 {
 }
 sysout("display date")
 
+
+initialize date(){
+sysout("iniate todays date")
+;
+ iniate todays date
 main(){
 sysout("hello git")
 }
