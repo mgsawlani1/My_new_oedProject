@@ -6,8 +6,16 @@ sysout("hello git")
 main(){
 sysout("hello git")
 }
+
 //calling method by static
 myMethod(){
 sysout("hello git")
 }
 }
+
+a obj = new a();
+obj.myMethod();
+sysout("hello git")
+
+}
+
