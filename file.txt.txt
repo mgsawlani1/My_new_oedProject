@@ -6,7 +6,8 @@ sysout("hello git")
 main(){
 sysout("hello git")
 }
-myMethod(){
+a obj = new a();
+obj.myMethod();
 sysout("hello git")
-}
+
 }
