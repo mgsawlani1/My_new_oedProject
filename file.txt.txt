@@ -6,5 +6,7 @@ sysout("hello git")
 main(){
 sysout("hello git")
 }
-
+myMethod(){
+sysout("hello git")
+}
 }
