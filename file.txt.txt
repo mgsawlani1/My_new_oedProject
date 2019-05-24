@@ -3,6 +3,11 @@ class a{
 static void myMethod(){
 system.out.println("I have implemented a new idea");
 }
+void display()
+{
+}
+sysout("display date")
+
 main(){
 sysout("hello git")
 }
