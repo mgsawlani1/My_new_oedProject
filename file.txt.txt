@@ -1,7 +1,7 @@
 class a{
 
 static void myMethod(){
-sysout("hello git")
+system.out.println("I have implemented a new idea");
 }
 main(){
 sysout("hello git")
