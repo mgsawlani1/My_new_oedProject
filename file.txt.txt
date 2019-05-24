@@ -9,6 +9,7 @@ sysout("hello git")
 
 //calling method by static
 myMethod(){
+//solu of mymethod2
 sysout("hello git")
 }
 }
@@ -19,3 +20,17 @@ sysout("hello git")
 //changed1 in main
 }
 
+
+
+public string display(){
+
+sysout("display method");
+
+return string
+}
+
+void mymethod2(){
+//implement mymtd
+}
+}
+>>>>>>> 92c731b... solu of mymethod2 in Mymethod
